@@ -1,10 +1,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=18D700&multiline=true&random=false&width=500&height=200&lines=Kenni001%40localhost%3A~%24+nc+-lvnp+1234;listening+on+%5Bany%5D+1234+...;connect+to+%5Broot%5D+profile;%24+.%2FScript.py+%2Fdev%2Fnull+%3E+2+-c+bash;root%40localhost%3A~%24+.%2FPrivilege_Exploit.py;........................................;..................PwN2d!................;root%40localhost%23+(WELCOME+TO+MY+PORTOFOLIO)" alt="Typing SVG" />
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=100000&color=FFFFFF&random=false&width=435&lines=Hello%2C+I'm+Karthik+Rudrappa;I'm+a+Graduate+in+Cybersecurity;I'm+a+CTF+player;I'm+a+Developer" alt="Typing SVG" /></a>
-
 # Hello, I'm CHANGEME
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello%2C+I'm+Karthik+Rudrappa;I'm+a+Graduate+in+Cybersecurity;I'm+a+CTF+player;I'm+a+Developer" alt="Typing SVG" /> </h1>
 
 [Brief Introduction - Remove this afterwards]
 
@@ -32,6 +32,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]
+
+### Languages
+
+![C](https://img.shields.io/badge/-C-000?&style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&style=for-the-badge&logo=C%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000?&style=for-the-badge&logo=Java)
+![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
+![Bash/Shell](https://img.shields.io/badge/-Bash%2FShell-000?&style=for-the-badge&logo=GNU%20Bash)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&style=for-the-badge&logo=CSS3)
+![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
+![Git](https://img.shields.io/badge/-Git-000?&style=for-the-badge&logo=Git)
 
 ### Network
 
@@ -61,14 +74,37 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+</div>
+   <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/-Security%2B-000?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+   <a href="https://www.redhat.com/en/services/certification/rhcsa"><img src="https://img.shields.io/badge/-RedHat%20Linux-000?style=for-the-badge&logo=Red%20Hat&logoColor=white" /></a>
+   <a href="https://www.elearnsecurity.com/certification/ejpt/"><img src="https://img.shields.io/badge/-eJPT-000?style=for-the-badge&logo=eLearnSecurity&logoColor=white" /></a>
+   <a href="https://learn.microsoft.com/en-us/certifications/exam-az-900"><img src="https://img.shields.io/badge/-AZ%20900-000?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /></a>
+   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /></a>
+   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /></a>
 </div>
 
 ## Projects
 
 - Detection Lab
 - SOC Automation Project
+
+## Contact Me HERE !
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/karthik-rudrappa/">
+        <img src="https://img.shields.io/badge/-Karthik R-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:kennikarthik@gmail.com">
+        <img src="https://img.shields.io/badge/-Karthik R-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/Kenni001">
+        <img src="https://img.shields.io/badge/-Karthik R-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://yourportfolio.com">
+        <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=react&logoColor=white" />
+    </a>
+    <a href="https://medium.com/@yourusername">
+        <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>
+</div>
