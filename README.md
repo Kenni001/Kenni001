@@ -8,17 +8,18 @@
 
 ## Introduction
 
-[Brief Introduction - Remove this afterwards]
 <div style="text-align: justify">
-I'm <b>KARTHIK RUDRAPPA</b> a Cyber Security graduate student specializing in network security and penetration testing, I have a keen interest in securing and testing the vulnerabilities of computer networks. I am passionate about understanding how networks work and how they can be manipulated, which has led me to specialize in network security and ethical hacking.
+I'm <b>KARTHIK RUDRAPPA</b> a Cyber Security graduate student specializing in network security and penetration testing, I have a keen interest in securing and testing the vulnerabilities of computer networks. I am passionate about understanding how networks work and how they can be manipulated, which has led me to specialize in network security and ethical hacking. 
+<br>
 <br>
 If you're interested in discussing network security or ethical hacking trends, or collaborating on projects, please feel free to connect with me on Linked In. I look forward to connecting with like-minded professionals in the industry.
 </div>
+
 ## Objective
 
-[Provide Objective - Remove this afterwards]
-
+<div style="text-align: justify">
 My journey in computer science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Penetration testing. I am a natural problem solver who thrives in challenging environments. I am also a team player who enjoys working collaboratively with cross-functional teams to achieve project goals. I am committed to staying up-to-date with the latest security trends and industry best practices, and I am constantly seeking new challenges to expand my knowledge and skills.
+</div>
 
 ## Skills
 
