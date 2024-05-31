@@ -8,7 +8,7 @@
 
 ## Introduction
 
-<div style="text-align: justify">
+<div style="text-align: center">
 I'm <b>KARTHIK RUDRAPPA</b> a Cyber Security graduate student specializing in network security and penetration testing, I have a keen interest in securing and testing the vulnerabilities of computer networks. I am passionate about understanding how networks work and how they can be manipulated, which has led me to specialize in network security and ethical hacking. 
 <br>
 <br>
