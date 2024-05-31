@@ -6,6 +6,8 @@
 
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello%2C+I'm+Karthik+Rudrappa;I'm+a+Graduate+in+Cybersecurity;I'm+a+CTF+player;I'm+a+Developer" alt="Typing SVG" /> </h1>
 
+## Introduction
+
 [Brief Introduction - Remove this afterwards]
 
 I'm KARTHIK RUDRAPPA a Cyber Security graduate student specializing in network security and penetration testing, I have a keen interest in securing and testing the vulnerabilities of computer networks. I am passionate about understanding how networks work and how they can be manipulated, which has led me to specialize in network security and ethical hacking.
