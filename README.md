@@ -8,7 +8,11 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm KARTHIK RUDRAPPA a Cyber Security graduate student specializing in network security and penetration testing, I have a keen interest in securing and testing the vulnerabilities of computer networks. I am passionate about understanding how networks work and how they can be manipulated, which has led me to specialize in network security and ethical hacking.
+
+I am a natural problem solver who thrives in challenging environments. I am also a team player who enjoys working collaboratively with cross-functional teams to achieve project goals. I am committed to staying up-to-date with the latest security trends and industry best practices, and I am constantly seeking new challenges to expand my knowledge and skills.
+
+If you're interested in discussing network security or ethical hacking trends, or collaborating on projects, please feel free to connect with me on LinkedIn. I look forward to connecting with like-minded professionals in the industry.
 
 ## Objective
 
