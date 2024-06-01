@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=18D700&background=000000&multiline=true&width=500&height=200&lines=Kenni001%40localhost%3A~%24+nc+-lvnp+1234;listening+on+%5Bany%5D+1234+...;connect+to+%5Broot%5D+profile;%24+.%2FScript.py+%2Fdev%2Fnull+%3E+2+-c+bash;root%40localhost%3A~%24+.%2FPrivilege_Exploit.py;........................................;..................PwN2d!................;root%40localhost%23+(WELCOME+TO+MY+PORTOFOLIO)" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=18D700&multiline=true&random=false&width=500&height=200&lines=Kenni001%40localhost%3A~%24+nc+-lvnp+1234;listening+on+%5Bany%5D+1234+...;connect+to+%5Broot%5D+profile;%24+.%2FScript.py+%2Fdev%2Fnull+%3E+2+-c+bash;root%40localhost%3A~%24+.%2FPrivilege_Exploit.py;........................................;..................PwN2d!................;root%40localhost%23+(WELCOME+TO+MY+PORTOFOLIO)" alt="Typing SVG" />
 
 # Hello, I'm CHANGEME
 
@@ -10,18 +8,13 @@
 
 ## Introduction
 
-<div style="text-align: center">
-I'm <b>KARTHIK RUDRAPPA</b> a Cyber Security graduate student specializing in network security and penetration testing, I have a keen interest in securing and testing the vulnerabilities of computer networks. I am passionate about understanding how networks work and how they can be manipulated, which has led me to specialize in network security and ethical hacking. 
-<br>
-<br>
+I'm <b>KARTHIK RUDRAPPA</b> a Cyber Security graduate student specializing in network security and penetration testing, I have a keen interest in securing and testing the vulnerabilities of computer networks. I am passionate about understanding how networks work and how they can be manipulated, which has led me to specialize in network security and ethical hacking.
+
 If you're interested in discussing network security or ethical hacking trends, or collaborating on projects, please feel free to connect with me on Linked In. I look forward to connecting with like-minded professionals in the industry.
-</div>
 
 ## Objective
 
-<div style="text-align: justify">
 My journey in computer science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Penetration testing. I am a natural problem solver who thrives in challenging environments. I am also a team player who enjoys working collaboratively with cross-functional teams to achieve project goals. I am committed to staying up-to-date with the latest security trends and industry best practices, and I am constantly seeking new challenges to expand my knowledge and skills.
-</div>
 
 ## Skills
 
