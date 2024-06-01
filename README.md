@@ -1,5 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=18D700&multiline=true&random=false&width=500&height=200&lines=Kenni001%40localhost%3A~%24+nc+-lvnp+1234;listening+on+%5Bany%5D+1234+...;connect+to+%5Broot%5D+profile;%24+.%2FScript.py+%2Fdev%2Fnull+%3E+2+-c+bash;root%40localhost%3A~%24+.%2FPrivilege_Exploit.py;........................................;..................PwN2d!................;root%40localhost%23+(WELCOME+TO+MY+PORTOFOLIO)" alt="Typing SVG" />
 
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=18D700&background=000000&multiline=true&width=500&height=200&lines=Kenni001%40localhost%3A~%24+nc+-lvnp+1234;listening+on+%5Bany%5D+1234+...;connect+to+%5Broot%5D+profile;%24+.%2FScript.py+%2Fdev%2Fnull+%3E+2+-c+bash;root%40localhost%3A~%24+.%2FPrivilege_Exploit.py;........................................;..................PwN2d!................;root%40localhost%23+(WELCOME+TO+MY+PORTOFOLIO)" alt="Typing SVG" />
+</div>
+
 # Hello, I'm CHANGEME
 
 <h1 align="center">𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
