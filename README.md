@@ -1,14 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=18D700&multiline=true&random=false&width=500&height=200&lines=Kenni001%40localhost%3A~%24+nc+-lvnp+1234;listening+on+%5Bany%5D+1234+...;connect+to+%5Broot%5D+profile;%24+.%2FScript.py+%2Fdev%2Fnull+%3E+2+-c+bash;root%40localhost%3A~%24+.%2FPrivilege_Exploit.py;........................................;..................PwN2d!................;root%40localhost%23+(WELCOME+TO+MY+PORTOFOLIO)" alt="Typing SVG" />
+<h1 align="center">𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=18D700&background=000000&multiline=true&width=500&height=200&lines=Kenni001%40localhost%3A~%24+nc+-lvnp+1234;listening+on+%5Bany%5D+1234+...;connect+to+%5Broot%5D+profile;%24+.%2FScript.py+%2Fdev%2Fnull+%3E+2+-c+bash;root%40localhost%3A~%24+.%2FPrivilege_Exploit.py;........................................;..................PwN2d!................;root%40localhost%23+(WELCOME+TO+MY+PORTOFOLIO)" alt="Typing SVG" />
 </div>
-
-# Hello, I'm CHANGEME
-
-<h1 align="center">𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
-
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&random=false&width=435&lines=Hello%2C+I'm+Karthik+Rudrappa;I'm+a+Graduate+in+Cybersecurity;I'm+a+CTF+player;I'm+a+Developer" alt="Typing SVG" /> </h1>
 
 ## Introduction
 
@@ -22,93 +16,46 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 
 ## Skills
 
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]
+> Language
 
-| Skill                                           | Associated Project                             |
-| ----------------------------------------------- | ---------------------------------------------- |
-| SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a> |
-| Security Automation with Shuffle SOAR           | SOC Automation Lab                             |
-| Incident Response Planning and Execution        | SOC Automation Lab                             |
-| Case Management with TheHive                    | SOC Automation Lab                             |
-| Scripting and Automation for Threat Mitigation  | SOC Automation Lab                             |
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=4EAA25)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032)
 
-## Tools
+> Skills
 
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]
+![Incident Response](https://img.shields.io/badge/-Incident%20Response-000000?style=for-the-badge&logoColor=FFA500)
+![Network Pen-testing](https://img.shields.io/badge/-Network%20Pen--testing-000000?style=for-the-badge&logoColor=990000)
+![Threat Modeling](https://img.shields.io/badge/-Threat%20Modeling-000000?style=for-the-badge&logoColor=FF6347)
+![STRIDE](https://img.shields.io/badge/-STRIDE-000000?style=for-the-badge&logoColor=1E90FF)
+![OWASP Top 10](https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=for-the-badge&logoColor=212121)
 
-### Languages
+> Operating System
 
-![C](https://img.shields.io/badge/-C-000?&style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&style=for-the-badge&logo=C%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000?&style=for-the-badge&logo=Java)
-![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
-![Bash/Shell](https://img.shields.io/badge/-Bash%2FShell-000?&style=for-the-badge&logo=GNU%20Bash)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&style=for-the-badge&logo=CSS3)
-![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-000?&style=for-the-badge&logo=Git)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Kali](https://img.shields.io/badge/-Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=557C94)
+![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-000000?style=for-the-badge&logo=parrot&logoColor=33aADD)
+![Windows 10](https://img.shields.io/badge/-Windows%2010-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Mac OS](https://img.shields.io/badge/-Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=000000)
 
-### Network
+> Security Tools:
 
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+![Burpsuite](https://img.shields.io/badge/-Burpsuite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF4500)
+![NMAP](https://img.shields.io/badge/-NMAP-000000?style=for-the-badge&logo=nmap&logoColor=990000)
+![Metasploit](https://img.shields.io/badge/-Metasploit%20Framework-000000?style=for-the-badge&logo=metasploit&logoColor=34495E)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![QRadar](https://img.shields.io/badge/-QRadar-000000?style=for-the-badge&logo=qradar&logoColor=062055)
+![Nessus](https://img.shields.io/badge/-Nessus-000000?style=for-the-badge&logo=nessus&logoColor=0489B1)
+![Autopsy](https://img.shields.io/badge/-Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=1E90FF)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=000000)
+![Volatility](https://img.shields.io/badge/-Volatility-000000?style=for-the-badge&logo=volatility&logoColor=990000)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E)
+![SIFT](https://img.shields.io/badge/-SIFT-000000?style=for-the-badge&logoColor=1E90FF)
+![GDB Debugger](https://img.shields.io/badge/-GDB%20Debugger-000000?style=for-the-badge&logo=gdb&logoColor=FF6347)
 
 ## Certifications
-
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]
-
-<div>
-
-</div>
-   <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/-Security%2B-000?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-   <a href="https://www.redhat.com/en/services/certification/rhcsa"><img src="https://img.shields.io/badge/-RedHat%20Linux-000?style=for-the-badge&logo=Red%20Hat&logoColor=white" /></a>
-   <a href="https://www.elearnsecurity.com/certification/ejpt/"><img src="https://img.shields.io/badge/-eJPT-000?style=for-the-badge&logo=eLearnSecurity&logoColor=white" /></a>
-   <a href="https://learn.microsoft.com/en-us/certifications/exam-az-900"><img src="https://img.shields.io/badge/-AZ%20900-000?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /></a>
-   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /></a>
-   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /></a>
-</div>
-
-## Projects
-
-- Detection Lab
-- SOC Automation Project
-
-## Contact Me HERE !
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/karthik-rudrappa/">
-        <img src="https://img.shields.io/badge/-Karthik R-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:kennikarthik@gmail.com">
-        <img src="https://img.shields.io/badge/-Karthik R-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/Kenni001">
-        <img src="https://img.shields.io/badge/-Karthik R-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://yourportfolio.com">
-        <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=react&logoColor=white" />
-    </a>
-    <a href="https://medium.com/@yourusername">
-        <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-</div>
