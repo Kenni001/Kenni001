@@ -59,3 +59,39 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 ![GDB Debugger](https://img.shields.io/badge/-GDB%20Debugger-000000?style=for-the-badge&logo=gdb&logoColor=FF6347)
 
 ## Certifications
+
+[![CompTIA Security+](https://img.shields.io/badge/-Security%2B-000?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.comptia.org/certifications/security)
+[![RedHat Linux](https://img.shields.io/badge/-RedHat%20Linux-000?style=for-the-badge&logo=Red%20Hat&logoColor=white)](https://www.redhat.com/en/services/certification/rhcsa)
+[![eJPT](https://img.shields.io/badge/-eJPT-000?style=for-the-badge&logo=eLearnSecurity&logoColor=white)](https://www.elearnsecurity.com/certification/ejpt/)
+[![Microsoft Azure AZ 900](https://img.shields.io/badge/-AZ%20900-000?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exam-az-900)
+[![AWS Solutions Architect](https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![AWS Solutions Architect](https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+## Labs
+
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]
+
+| Skill         | Associated Project |
+| ------------- | ------------------ |
+| Still Working | Still Working      |
+|               |                    |
+|               |                    |
+|               |                    |
+|               |                    |
+|               |                    |
+
+## Projects
+
+- Still Working on these
+
+<div align="center">
+
+## Contact Me HERE !
+
+[![LinkedIn](https://img.shields.io/badge/-Karthik%20R-000?style=for-the-badge&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/karthik-rudrappa/)
+[![Gmail](https://img.shields.io/badge/-Karthik%20R-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:kennikarthik@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Karthik%20R-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kenni001)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=4CAF50)](https://yourportfolio.com)
+[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+
+</div>
