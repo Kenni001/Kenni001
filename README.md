@@ -45,7 +45,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-000000?style=for-the-badge&logo=parrot&logoColor=33aADD)
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-000000?style=for-the-badge&logo=windows&logoColor=0078D6)
-![Mac OS](https://img.shields.io/badge/-Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=000000)
+![Mac OS](https://img.shields.io/badge/-Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 > Security Tools:
 
@@ -56,7 +56,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 ![QRadar](https://img.shields.io/badge/-QRadar-000000?style=for-the-badge&logo=qradar&logoColor=062055)
 ![Nessus](https://img.shields.io/badge/-Nessus-000000?style=for-the-badge&logo=nessus&logoColor=0489B1)
 ![Autopsy](https://img.shields.io/badge/-Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=1E90FF)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=000000)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Volatility](https://img.shields.io/badge/-Volatility-000000?style=for-the-badge&logo=volatility&logoColor=990000)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E)
