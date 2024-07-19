@@ -7,7 +7,7 @@
 ## Introduction
 
 <div align="justify">
-I'm <i><b>KARTHIK RUDRAPPA</b></i> a Cyber Security graduate student specializing in network security and penetration testing, I have a keen interest in securing and testing the vulnerabilities of computer networks. I am passionate about understanding how networks work and how they can be manipulated, which has led me to specialize in network security and ethical hacking.
+I'm `<i><b>KARTHIK RUDRAPPA</b></i>` a Cyber Security graduate student specializing in network security and penetration testing, I have a keen interest in securing and testing the vulnerabilities of computer networks. I am passionate about understanding how networks work and how they can be manipulated, which has led me to specialize in network security and ethical hacking.
 </br>
 </br>
 If you're interested in discussing network security or ethical hacking trends, or collaborating on projects, please feel free to connect with me. I look forward to connecting with like-minded professionals in the industry.
